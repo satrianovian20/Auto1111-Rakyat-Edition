@@ -41,6 +41,29 @@ Anda sepenuhnya bertanggung jawab atas model dan konten yang Anda jalankan melal
 
 Gunakan secara bijak. Hormati hukum, budaya, dan moral tempat tinggal Anda.
 
+🇮🇩 Bahasa Indonesia – Edukasi Penggunaan Model NSFW secara Aman (SFW)
+📌 Peringatan:
+Model yang digunakan di proyek ini mengandung kemampuan NSFW (Not Safe For Work). Namun, hasil yang Anda dapatkan tetap bisa SFW (aman dipublikasi) asalkan Anda memberikan prompt yang tepat.
+
+✅ Tips Agar Tetap SFW:
+Gunakan prompt pakaian lengkap, seperti:
+a girl wearing jeans and a t-shirt,
+a boy in full armor,
+a character wearing long dress and jacket.
+
+Hindari kata-kata sensitif seperti nude, lingerie, explicit, dsb.
+
+Tambahkan negative prompt seperti:
+nude, nsfw, naked, cleavage, underboob, suggestive, inappropriate.
+
+Gunakan model ini untuk membuat konten desain karakter, novel ilustrasi, komik visual, atau konsep animasi yang sopan dan kreatif.
+
+📘 Edukasi Tambahan:
+Model NSFW tidak otomatis menghasilkan konten NSFW.
+Yang menentukan adalah prompt yang Anda berikan.
+
+Harap tidak menyebarkan konten NSFW ke publik, simpan untuk pribadi jika memang perlu dan tanggung jawab ada di anda dan bukan saya.
+
 
 📥 Cara Instalasi:
 # 1. Jalankan setup_env.py (otomatis bikin venv)
@@ -83,6 +106,29 @@ The author is not responsible for any misuse, especially for NSFW/NSFL models.
 You are fully responsible for any content or model you run.
 
 Use it wisely and responsibly. Always follow your local laws and ethical standards.
+
+🇬🇧 English Version – Safe Use Education for NSFW Models
+📌 Warning:
+This project uses a model that includes NSFW capabilities. However, the output can still be 100% SFW (Safe for Work) if you write the correct prompts.
+
+✅ Tips to Keep Outputs SFW:
+Use full clothing prompts, like:
+a girl wearing jeans and a t-shirt,
+a boy in full armor,
+a character wearing long dress and jacket.
+
+Avoid sensitive terms like nude, lingerie, explicit, etc.
+
+Add negative prompts such as:
+nude, nsfw, naked, cleavage, underboob, suggestive, inappropriate.
+
+This model is useful for character design, light novel illustrations, visual novels, or clean animation concepts.
+
+📘 Additional Education:
+NSFW models do not always generate NSFW content.
+It depends entirely on the prompt used.
+
+Do not share NSFW outputs publicly. Keep them private if necessary and responbility in your hand. So use it wisely.
 
 📥 Installation Method:
 # 1. Run `setup_env.py` (automatically creates a virtual environment)
