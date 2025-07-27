@@ -6,9 +6,9 @@ Auto1111-Rakyat Edition alias auto1111-tak-mau-crash
 
 Diuji di:
 
-RAM 8–16 GB
+RAM 16 GB
 
-GPU GTX 1650, GT 1030, atau bahkan tanpa GPU
+GPU GTX 1650 Super
 
 Windows 10/11 (Home/Pro)
 
@@ -35,6 +35,13 @@ Anda sepenuhnya bertanggung jawab atas model dan konten yang Anda jalankan melal
 
 Gunakan secara bijak. Hormati hukum, budaya, dan moral tempat tinggal Anda.
 
+
+📥 Cara Instalasi:
+# 1. Jalankan setup_env.py (otomatis bikin venv)
+python setup_env.py
+
+# 2. Klik dua kali launch.py (otomatis install requirement & jalankan webui)
+
 ---
 
 🇬🇧 Auto1111 Rakyat Edition - Crash-Free, Low-End Friendly
@@ -42,9 +49,9 @@ Gunakan secara bijak. Hormati hukum, budaya, dan moral tempat tinggal Anda.
 
 Tested on:
 
-8–16 GB RAM
+16 GB RAM
 
-GTX 1650, GT 1030, or even CPU-only setups
+GTX 1650 Super
 
 Windows 10/11 (Home/Pro)
 
@@ -70,6 +77,12 @@ The author is not responsible for any misuse, especially for NSFW/NSFL models.
 You are fully responsible for any content or model you run.
 
 Use it wisely and responsibly. Always follow your local laws and ethical standards.
+
+📥 Installation Method:
+# 1. Run `setup_env.py` (automatically creates a virtual environment)
+python setup_env.py
+
+# 2. Double-click `launch.py` (automatically installs requirements & starts the WebUI)
 
 💬 Credits
 Modified by Satria Novian with help from community testers & AI enthusiasts.
