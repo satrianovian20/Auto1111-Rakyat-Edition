@@ -1,6 +1,12 @@
 # Auto1111-Rakyat-Edition
 Auto1111-Rakyat Edition alias auto1111-tak-mau-crash
 
+---
+
+"Auto1111-Rakyat-Edition is a simplified version of the original AUTOMATIC1111 Stable Diffusion WebUI, modified for low-end PC users. This project is for educational purposes."
+
+---
+
 🇮🇩 Auto1111 Rakyat Edition - Anti Crash, Pro Low-End
 🖥️ Versi modifikasi dari WebUI Automatic1111 untuk pengguna PC spek rendah.
 
